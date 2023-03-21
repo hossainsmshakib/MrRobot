@@ -1,4 +1,5 @@
 # MrRobot
+The name MrRobot is inspired from the series "Mr. Robot". MrRobot is a chatbot powerd by OpenAI's  API. Besiacally It's chatGPT power android app. I made it through implementing the openAI API for access chatGPT from your own phone. You can ask it anything and it should give you the proper answaer.
 
 
 ![Screenshot_20230321_112454](https://user-images.githubusercontent.com/76900961/226525550-b83a8356-5d32-434b-a72c-f26d068add3e.png)
